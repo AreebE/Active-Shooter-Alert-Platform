@@ -28,7 +28,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB4IxupF872hVmRmoK0tNfcmb27pjOh49M" />
+            android:value="INSERT_OWN" />
 
         <activity
             android:name=".RecieverActivity"
